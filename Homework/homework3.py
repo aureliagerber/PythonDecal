@@ -90,8 +90,5 @@ def digiRoot(number):
         total += int(i)
     return total
 
-myList = [5, 2, 0, 3, 7, 9, 14, -2, 4]
-print(digiRoot(123))
-
 
 
